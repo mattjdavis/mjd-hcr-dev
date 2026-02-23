@@ -1,3 +1,5 @@
-# aind-capsule-template
+# HCR DEV (MJD)
 
-Basic structure of a capsule to be customized as needed.
++ Set of notebooks and scripts for developing HCR data analysis and processing by @mattjdavis
+
+created: Feb 2026
