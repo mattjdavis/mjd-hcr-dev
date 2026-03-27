@@ -10,10 +10,12 @@
 		"pip": {
 			"packages": [
 				{
-					"name": "aind-data-access-api[docdb]"
+					"name": "aind-data-access-api[docdb]",
+					"version": "1.9.3"
 				},
 				{
-					"name": "codeocean-sdk-python"
+					"name": "codeocean",
+					"version": "0.14.0"
 				},
 				{
 					"name": "git+https://github.com/AllenNeuralDynamics/aind-hcr-data-loader.git#egg=aind-hcr-data-loader"
